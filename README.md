@@ -1,7 +1,5 @@
-# Hi there, I'm Arif👋
 
-### I build cool things.
-
+### I build stuff when I'm not procrastinating.
 <!--
 **ademirkan/ademirkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
